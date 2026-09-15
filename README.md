@@ -7,6 +7,7 @@ One folder per video, one complete program per topic.
 |---|---|
 | `01-big-O` | C++ Data Structures: Time and Space Complexity from C++98 to C++26. One program per container; each times its operations at n and 10n and prints the measured ratio next to the expected Big-O. |
 | `02-cpp-std-vector-in-10-minutes` | std::vector in 10 Minutes: Big-O, Growth and Memory Layout. The slide snippets as full programs. |
+| `03-cpp-std-deque-in-10-minutes` | std::deque in 10 Minutes: Big-O, Blocks and Memory Layout. The slide snippets as full programs. |
 
 ## Build and run
 
