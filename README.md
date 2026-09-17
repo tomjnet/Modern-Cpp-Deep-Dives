@@ -1,6 +1,6 @@
 # Modern C++ Deep Dives
 
-Runnable code from the [Modern C++ Deep Dives](https://www.youtube.com/@TomJNet) video series, in English and Spanish.
+Runnable code from the [Modern C++ Deep Dives](https://www.youtube.com/@TomJNet) video series.
 One folder per video, one complete program per topic.
 
 | Folder | Video |
